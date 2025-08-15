@@ -121,6 +121,7 @@
 -  I tried using supervised learning, adding complexity, changing the activation function, the optimizer and the loss function, and adding noise to the model.
 -  However, the output always remained the same, all values were printed on a single (sometimes curved) line in 2D space.
 -  I assume this is because the model acts much in the same way as algorithm would - transforming data. However, it can't replicate the sense of randomness that is required to generate gaussian data.
+-  In the end I decided to keep my original (simple) attempt even though it didn't work as this best portrayed the intent of my model
 
 ## Additional Features
 
